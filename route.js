@@ -1,0 +1,3 @@
+const allRoute = {
+view: "/view",
+}
